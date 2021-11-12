@@ -1,7 +1,7 @@
 # fatcat
 
 ## What is Fatcat?
-
+![screenshot of fatcat](https://your-copied-image-address)
 Fatcat is a cat clone that created to learn c. Besides printing out the contents of a file it prints the file name and line numbers. 
 
 ## How to download and install fatcat?
